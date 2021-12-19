@@ -5,8 +5,8 @@ Projekt dotyczy stworzenia prostej, arcade'owej gry 2D. Użyliśmy PyGame'a, i s
 * [Hubert Asztabski](https://sztaba.github.io)
 * [Jakub Głowacki](https://jakubg-git.github.io/)
 * [Jan Karkowski](https://jankrk.github.io/)
-* [Bartłomiej Stępniewski](https://beto4444.github.io/)/
-[SLOT](https://github.com/AGH-Narzedzia-Informatyczne-2021-2022/SLOT)
+* [Bartłomiej Stępniewski](https://beto4444.github.io/)
+\[SLOT](https://github.com/AGH-Narzedzia-Informatyczne-2021-2022/SLOT)
 # Repo do uczenia się podstaw Pythona
 Służy do uczenia się Pythona\
 [Python - podstawy](https://github.com/Sztaba/PythonPodstawy)
